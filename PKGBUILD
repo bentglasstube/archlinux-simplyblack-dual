@@ -1,6 +1,6 @@
 # Maintainer: Alan Berndt <alan@eatabrick.org>
 pkgname=slim-theme-archlinux-simplyblack-dual
-pkgver=1.0
+pkgver=1.1
 pkgrel=1
 pkgdesc='Slim theme archlinux simplyblack for dual monitors'
 url='https://github.com/bentglasstube/archlinux-simplyblack-dual'
@@ -9,7 +9,7 @@ arch=('any')
 depends=('slim')
 install=archlinux-simplyblack-dual.install
 source=('https://github.com/bentglasstube/archlinux-simplyblack-dual/raw/master/archlinux-simplyblack-dual.tar.gz')
-md5sums=('abe17c694d3fc97f5dd38603c6879b9d')
+md5sums=('9d34bd4fb804733a23338d692211aeee')
 
 build() {
   cd $srcdir
