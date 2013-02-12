@@ -1,1 +1,5 @@
 .*.swp
+pkg
+src
+slim-theme-archlinux-simplyblack-dual-*.src.tar.gz
+slim-theme-archlinux-simplyblack-dual-*.pkg.tar.xz
